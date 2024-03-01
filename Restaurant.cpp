@@ -22,6 +22,7 @@ int main() {
             "\n\t[B]  Pandesal and Hot Coffee – PHP 25.00"
             "\n\t[C]  Champorado – PHP 22.00" << endl;
             "\n\t[C]  Champorado – PHP 22.00" << endl;
+            "\n\t[C]  Champorado – PHP 22.00" << endl;
 
         string sub_c_1;
         cout << "Enter your choice here: ";
